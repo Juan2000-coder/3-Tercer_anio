@@ -1,0 +1,92 @@
+Preguntas Ciencias: 
+Un enfriamiento normal en un diagrama metaestable
+ representaria en el diagrama ttt? Como si fuera un recocido?
+
+
+Que es La eficacia del empaquetamiento????
+Con estabilidad dimensional se refieren a la capacidad de mantener su volumen? Si ante situaciones externas como la temp
+Van a entrar cosas relacionadas a espumas o van a ser mas relacionado a al comportamiento estructural de los polimeros
+
+Duda demostracion de la carga transversal. La formula de deformacion sale de la nada, estuve buscando informacion y me salio que 
+sale a partir de un analisis micromecanico con enfoque en la microescala
+Vi que mediante un analisis micromecanico implica que el material se comporta de forma hoomogenea
+
+Orden
+Covalente
+Enlace de hidrogeno.
+Inonico
+Metalico
+Van der waals
+
+Es correcto decir que lA FLUENCIA ES UNA FUNCION DE LA DEFORMACION PREVIA?
+
+
+
+La corrosión por fatiga es muy similar a la corrosión por tensiones, la diferencia es que la 
+tensión es aplicada cíclicamente y no estáticamente.
+
+Toman nanomateriales?
+
+Formula de flecha maxima lo toman? Porque por lo general depende del modelo estatico y se extraen de tabla
+
+DUDA DIAGRAMA DE GOODMAN
+Donde termina? Termina antes de llegar a un valor de resistencia a la compresion?
+
+La deformacion en el ensayo de fluencia creep tambien se puede explicar mediante dislocaciones? 
+Porque en el apunte dice que el material se comporta de forma viscosa
+pero como se relaciona esto con los defectos lineales? 
+Es porque pueden desplazarse con menor esfuerzo a mayor temperatura?
+
+La capacidad de los liquidos para penetrar y ser retenidos
+ depende principalmente de tres propiedades: 
+-Mojabilidad o ángulo de contacto entre líquido y sólido: 
+-Tensión superficial:
+-Viscosidad:
+Que la relacion entre ellas se define mediante le capilaridad. directmente a la tenision superfiial respecto de la viscosidad y el angulo de contacto debe ser pequeño
+Como depende de cada una?
+
+Segregacion y segregacion en V invertida? 
+ la segunda tiene mas impurezas, por ende mas interfaz y mas fragilidad?
+Que problema genera, fragilidad? Cual es peor?
+
+ 
+
+Que tanto deberia dedicarle a Rayos x y rayos gamma?
+De cualquier forma, como se relacionan los efectos fotoelectrico, compton y produccion de pares con la generacion de rayos?
+Rayos X - Bombardeo de electrones mediante un filamento
+Rayos Gamma - Deaimiento radiactivo en hisotopos 
+Preguntar si el lunes dan consulta?
+
+Fase sigma aceros inoxidables: 
+Es la face de formacion de carburo de cromo intermetalico?
+Porque no se habla mucho de los ferriticos-Martensiticos?
+La interfaz entre las dos fases genera fragilidad?
+
+MACLAS
+Confirmar direccion de la macla
+
+
+
+Se dice que la plasticidad esta dado por el movimiento relativos de los atomos, por lo que:
+La plasticidad viene dada por el movimiento de dislocaciones?
+El movimiendo de las dislocaciones influye en la elasticidad o la elasticidad solo viene dada
+por la influencia del enlace metalico?
+	
+Una de mis preguntas es que, Sabemos que los polimeros termoestables generalmente forman estructuras entrecruzadas o reticuladas por la dificultad de reacomodamiento que poseen sus cadenas polimericas
+Por lo tanto, si tengo un polimero termoplastico de estructura lineal y le aplico un proceso de vulcanizado para forzar entrecuzamientos
+Puedo lograr que un polimero que normalmente es termoplastico se convierta en termoestable?
+
+
+Me tengo que saber el diagrama de la circonia?
+
+En fundiciones grises, la cementita de la perlita permanece o tambien se convierte en grafito?
+
+La estructura Widmanstatten es la que se produce por los granos columnares en la lingotera?
+
+Circonia, repasar influencia del peso molecular en polimeros
+Caolinita, unidas por enlaces inonico-covalentes
+Knoop microdureza
+ReVickers limite de carga menor a brinell.
+Punto de fusion Aceros inox - mismo que el acero comun
+
+
